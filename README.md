@@ -17,6 +17,7 @@ _Get started using GitHub in less than an hour._
   The start <details> should have `open` as well.
   Do not use quotes on the <details> tag attributes.
 -->
+![example workflow](https://github.com/andrewm-Slalom/ghtraining/actions/workflows/0-start.yml/badge.svg)
 
 <!--step0
 
